@@ -1,0 +1,17 @@
+var f = [];				
+f[0]	= "v0.0.7";			
+f[1]	= "01 Grindstone.mp3";		
+f[2]	= "02 Coalminers.mp3";		
+f[3]	= "03 Wait Up.mp3";		
+f[4]	= "04 Criminals.mp3";		
+f[5]	= "05 Shaky Ground.mp3";		
+f[6]	= "06 Satan, Your Kingdom Must Come Down.mp3";		
+f[7]	= "07 Black Eye.mp3";		
+f[8]	= "08 Moonshiner.mp3";		
+f[9]	= "09 I Wish My Baby Was Born.mp3";		
+f[10]	= "10 Atomic Power.mp3";		
+f[11]	= "11 Lilli Schull.mp3";		
+f[12]	= "12 Warfare.mp3";		
+f[13]	= "13 Fatal Wound.mp3";		
+f[14]	= "14 Sandusky.mp3";		
+f[15]	= "15 Wipe the Clock.mp3";		
